@@ -1,0 +1,6 @@
+| Tipo de Usuário  | Nome                | Email                                                   | Senha        | Permissões                                                                                 |
+| ---------------- | ------------------- | ------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------ |
+| 🔐 Administrador | Admin Geral         | **[admin@colera.ao](mailto:admin@colera.ao)**           | `admin123`   | `ver_estatisticas`, `registar_pacientes`, `editar_todos_pacientes`, `gerir_usuarios`, etc. |
+| 👨‍⚕️ Secretário | Secretário de Saúde | **[secretario@colera.ao](mailto:secretario@colera.ao)** | `secret123`  | `registar_pacientes`                                                                       |
+| 👨‍🔧 Técnico    | Técnico de Triagem  | **[tecnico@colera.ao](mailto:tecnico@colera.ao)**       | `tecnico123` | `editar_todos_pacientes`                                                                   |
+| 👁 Visitante     | Leitor de Dados     | **[visitante@colera.ao](mailto:visitante@colera.ao)**   | `visit123`   | Apenas leitura, sem permissões de modificação                                              |
